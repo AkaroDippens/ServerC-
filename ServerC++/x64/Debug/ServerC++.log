@@ -1,0 +1,9 @@
+﻿CServer_UDP.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_bind в функции "public: __cdecl CServer_UDP::CServer_UDP(void)" (??0CServer_UDP@@QEAA@XZ).
+CServer_UDP.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_closesocket в функции "public: __cdecl CServer_UDP::~CServer_UDP(void)" (??1CServer_UDP@@QEAA@XZ).
+CServer_UDP.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_htons в функции "public: __cdecl CServer_UDP::CServer_UDP(void)" (??0CServer_UDP@@QEAA@XZ).
+CServer_UDP.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_recvfrom в функции "public: __cdecl CServer_UDP::CServer_UDP(void)" (??0CServer_UDP@@QEAA@XZ).
+CServer_UDP.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_sendto в функции "public: void __cdecl CServer_UDP::SendMsg(char const * const)" (?SendMsg@CServer_UDP@@QEAAXQEBD@Z).
+CServer_UDP.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_socket в функции "public: __cdecl CServer_UDP::CServer_UDP(void)" (??0CServer_UDP@@QEAA@XZ).
+CServer_UDP.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_WSAStartup в функции "public: __cdecl CServer_UDP::CServer_UDP(void)" (??0CServer_UDP@@QEAA@XZ).
+CServer_UDP.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_WSACleanup в функции "public: __cdecl CServer_UDP::CServer_UDP(void)" (??0CServer_UDP@@QEAA@XZ).
+C:\Users\mirzo\source\repos\ServerC++\x64\Debug\ServerC++.exe : fatal error LNK1120: неразрешенных внешних элементов: 8
